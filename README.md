@@ -1,6 +1,6 @@
 # colorGuessingGame
 
 A simple Color Guessing Game based on their RGB Values. This game has two difficulty levels which changes the number of previews.<br />
-You  can use Github Website Viewer to play the game: https://htmlpreview.github.io/<br />
+You  can use Github Website Viewer to play the game: https://htmlpreview.github.io/?https://github.com/anubhavvs/colorGuessingGame/blob/master/index.html<br />
 
 --anubhavvs
